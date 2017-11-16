@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1510794734781,
+            "changeTime": 1510794734781,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1510794734781,
+            "changeTime": 1510794734781,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1510794941131,
+            "changeTime": 1510794941131,
+            "contentHash": "dfd437ea0c5805d7dac21d28389db842e3d4a892",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1510794734781,
+            "changeTime": 1510794734781,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1510794979576,
+            "changeTime": 1510794979576,
+            "contentHash": "57555d71bbd406b7485ec7f92c06f58fa6bbb889",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default/classes/sc_picklist.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default/classes/sc_picklist.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 116,
+            "modifiedTime": 1510794979462,
+            "changeTime": 1510794979467,
+            "contentHash": "8c2d02d6be4cacd7471ea37632357f47a0823d58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default/classes/sc_picklist.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default/classes/sc_picklist.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1510794930059,
+            "changeTime": 1510794930059,
+            "contentHash": "694064053497b4bfe5cebf6db7139dd08cb23490",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default/settings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1510794888399,
+            "changeTime": 1510794888399,
+            "contentHash": "d57d164e7e5f4b7e3425ff41dde92130ce39ef6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist/force-app/main/default/settings/Address.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist/force-app/main/default/settings/Address.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 184215,
+            "modifiedTime": 1510794888401,
+            "changeTime": 1510794888401,
+            "contentHash": "8c28a31a1bf36ba361c8098fec6d97742e748107",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/grbu2232/scratch/scpicklist",
+        {
+            "state": "n",
+            "sourcePath": "/Users/grbu2232/scratch/scpicklist",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1510794941131,
+            "changeTime": 1510794941131,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
